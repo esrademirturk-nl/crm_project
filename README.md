@@ -24,13 +24,14 @@ All user data is stored in the **Users file** (linked to Google Drive main Gmail
 - Users file stores all login credentials and authorities
 - Admin can manage users via **Preferences - Admin** menu
 
-<img src="screens/admin_preferences" width="500"/>  
-<img src="screens/preferences" width="500"/>
+<img src="screens/admin_preferences.png" width="500"/>  
+<img src="screens/preferences.png" width="500"/>
+
 ### 🧑‍🏫 Mentor Management
 - Add, edit, and list mentors
 - Separate menu available for mentor operations (**mentor_menu.py**)
 
-![Login Screen](screens/mentor_menu.png)
+<img src="screens/mentor_menu.png" width="500"/>
 
 ### 📝 Interview & Application Management
 - Manage interviews via **interview_menu.py**
