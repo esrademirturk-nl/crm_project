@@ -18,18 +18,28 @@ All user data is stored in the **Users file** (linked to Google Drive main Gmail
   - Optional **close button** to exit the application
   - Custom styling: colors, fonts, button hover/press effects, rounded edges
 
+![Login Screen](screens/login_screen.png)
+
 ### 📂 User Management
 - Users file stores all login credentials and authorities
 - Admin can manage users via **Preferences - Admin** menu
+
+![Admin Preferences Screen](screens/admin_preferences.png)     ![Login Screen](screens/preferences.png)
 
 ### 🧑‍🏫 Mentor Management
 - Add, edit, and list mentors
 - Separate menu available for mentor operations (**mentor_menu.py**)
 
+![Login Screen](screens/mentor_menu.png)
+
 ### 📝 Interview & Application Management
 - Manage interviews via **interview_menu.py**
 - Manage applications via **applications.py**
 - Separate UI files for screens (`.ui`) make the app visually appealing
+
+![Application Screen](screens/applications.png)     ![Interviews Screen](screens/interview.png)
+
+![Login Screen](screens/admin_menu.png)
 
 ### 🎨 Customization
 - Login and menu windows have consistent styling:
@@ -55,17 +65,6 @@ All user data is stored in the **Users file** (linked to Google Drive main Gmail
 
 ---
 
-## 📸 Screenshots
-
-![Login Screen](screens/login_screen.png)
-![Login Screen](screens/admin_preferences.png)
-![Login Screen](screens/admin_menu.png)
-![Login Screen](screens/applications.png)
-![Login Screen](screens/interview.png)
-![Login Screen](screens/mentor_menu.png)
-![Login Screen](screens/preferences.png)
-
----
 
 ## 🛠️ Requirements
 - Python 3.x
