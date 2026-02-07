@@ -24,7 +24,7 @@ All user data is stored in the **Users file** (linked to Google Drive main Gmail
 - Users file stores all login credentials and authorities
 - Admin can manage users via **Preferences - Admin** menu
 
-![Admin Preferences Screen](screens/admin_preferences.png)     ![Login Screen](screens/preferences.png)
+![Admin Preferences Screen](screens/admin_preferences.png)     ![Preferences Screen](screens/preferences.png)
 
 ### 🧑‍🏫 Mentor Management
 - Add, edit, and list mentors
@@ -71,11 +71,6 @@ All user data is stored in the **Users file** (linked to Google Drive main Gmail
 - `tkinter` for GUI
 - `json` for data storage
 
----
 
-## 🏃 How to Run
-1. Clone this repository:
-```bash
-git clone <repo_url>
 
 
