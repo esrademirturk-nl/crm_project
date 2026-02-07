@@ -57,7 +57,13 @@ All user data is stored in the **Users file** (linked to Google Drive main Gmail
 
 ## 📸 Screenshots
 
-![Login Screen](screens/Screen_Shot_2026-02-07_at_23.32.34.png)
+![Login Screen](screens/login_screen.png)
+![Login Screen](screens/admin_preferences.png)
+![Login Screen](screens/admin_menu.png)
+![Login Screen](screens/applications.png)
+![Login Screen](screens/interview.png)
+![Login Screen](screens/mentor_menu.png)
+![Login Screen](screens/preferences.png)
 
 ---
 
