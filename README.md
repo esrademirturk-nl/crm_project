@@ -18,16 +18,14 @@ All user data is stored in the **Users file** (linked to Google Drive main Gmail
   - Optional **close button** to exit the application
   - Custom styling: colors, fonts, button hover/press effects, rounded edges
 
-![Login Screen]()
-<img src="screens/login_screen.png" width="400"/>
+<img src="screens/login_screen.png" width="500"/>
 
 ### 📂 User Management
 - Users file stores all login credentials and authorities
 - Admin can manage users via **Preferences - Admin** menu
 
-<img src="screens/admin_preferences" width="400"/>
-![Admin Preferences Screen](screens/admin_preferences.png)     ![Preferences Screen](screens/preferences.png)
-
+<img src="screens/admin_preferences" width="500"/>  
+<img src="screens/preferences" width="500"/>
 ### 🧑‍🏫 Mentor Management
 - Add, edit, and list mentors
 - Separate menu available for mentor operations (**mentor_menu.py**)
