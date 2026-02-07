@@ -38,9 +38,9 @@ All user data is stored in the **Users file** (linked to Google Drive main Gmail
 - Manage applications via **applications.py**
 - Separate UI files for screens (`.ui`) make the app visually appealing
 
-img src="screens/applications.png" width="600"/>
-img src="screens/interview.png" width="600"/>
-img src="screens/admin_menu.png" width="600"/>
+<img src="screens/applications.png" width="600"/>
+<img src="screens/interview.png" width="600"/>
+<img src="screens/admin_menu.png" width="600"/>
 
 ### 🎨 Customization
 - Login and menu windows have consistent styling:
