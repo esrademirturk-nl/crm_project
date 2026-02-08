@@ -191,6 +191,7 @@ class Ui_preferences(object):
 
 
 if __name__ == "__main__":
+    data=0
     import sys
     app = QtWidgets.QApplication(sys.argv)
     preferences = QtWidgets.QMainWindow()
